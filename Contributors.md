@@ -776,4 +776,5 @@
 - [H-ADJI](https://github.com/H-ADJI)
 - [Vernon Piland](https://github.com/VernonPiland)
 - [Ricardo Ferreira](https://github.com/Cacousa2005)
+- [Wessel Biemans](https://github.com/WesselBiemans)
 <!-- prettier-ignore-end -->
